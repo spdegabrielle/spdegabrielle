@@ -1,4 +1,4 @@
-
+### Hi there 👋 ![Racket](racket.svg)
 
 <!--
 
@@ -25,19 +25,7 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/github/followers/spdegabrielle?style=social)](https://github.com/spdegabrielle)
 [![Twitter](https://img.shields.io/twitter/follow/spdegabrielle?style=social)](https://twitter.com/spdegabrielle)
 
-<a href="https://racket-lang.org">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spdegabrielle&layout=compact&hide=HTML,css,JavaScript&theme=prussian" />
-</a>
 
-
-
-<a href="https://racket-lang.org">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=spdegabrielle&show_icons=true&theme=prussian" />
-</a>
-
-
-
-<hr style="clear:all;"/>
 
 ```racket
 (information
