@@ -17,16 +17,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spdegabrielle&layout=compact&hide=HTML,css,JavaScript&theme=prussian)](https://github.com/spdegabrielle)
+
 
 [![GitHub](https://img.shields.io/github/followers/spdegabrielle?style=social)](https://github.com/spdegabrielle)
 [![Twitter](https://img.shields.io/twitter/follow/spdegabrielle?style=social)](https://twitter.com/spdegabrielle)
 
 <a href="https://racket-lang.org">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spdegabrielle&layout=compact&hide=HTML,css,Go,JavaScript&theme=prussian" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spdegabrielle&layout=compact&hide=HTML,css,JavaScript&theme=prussian" />
 </a>
+
+
+
 <a href="https://racket-lang.org">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=spdegabrielle&show_icons=true&theme=prussian" />
 </a>
+
 
 
 <hr style="clear:all;"/>
