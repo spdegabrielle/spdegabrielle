@@ -38,8 +38,8 @@ Here are some ideas to get you started:
   #:Pronouns: '(He Him)
   #:fun-fact #f)
 ```
-<a href="http://t.cred.ly/l/45d247f1-a131-4e8a-b852-33b41f70159b"
-<img src="https://raw.githubusercontent.com/spdegabrielle/spdegabrielle/master/0f7ad760fa8f1c9b8d2b3e85f30920ac.png" alt="badge  Intersystems Certified HL7 Specialist Developer" title="Intersystems Certified HL7 Specialist Developer" width="100" height="100" >
+<a href="http://t.cred.ly/l/45d247f1-a131-4e8a-b852-33b41f70159b">
+    <img src="https://raw.githubusercontent.com/spdegabrielle/spdegabrielle/master/0f7ad760fa8f1c9b8d2b3e85f30920ac.png" alt="badge  Intersystems Certified HL7 Specialist Developer" title="Intersystems Certified HL7 Specialist Developer" width="100" height="100" >
 </a>
 ### Contribution
 
