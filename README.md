@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/github/followers/spdegabrielle?style=social)](https://github.com/spdegabrielle)
 [![Twitter](https://img.shields.io/twitter/follow/spdegabrielle?style=social)](https://twitter.com/spdegabrielle)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spdegabrielle&hide=HTML,css,Go,JavaScript&theme=prussian" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spdegabrielle&layout=compact&hide=HTML,css,Go,JavaScript&theme=prussian" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=spdegabrielle&show_icons=true&theme=prussian" />
+
+<hr />
 
 ```racket
 (information
@@ -39,4 +42,4 @@ Here are some ideas to get you started:
 ### Contribution
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quickscript-Competiton&repo=July2020entries)](https://github.com/Quickscript-Competiton/July2020entries)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spdegabrielle&repo=cli-command)](https://github.com/spdegabrielle/cli-command)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=racket-templates&repo=cli-command)](https://github.com/racket-templates/cli-command)
