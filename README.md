@@ -39,6 +39,8 @@ Here are some ideas to get you started:
   #:fun-fact #f)
 ```
 
+<img href="https://raw.githubusercontent.com/spdegabrielle/spdegabrielle/master/0f7ad760fa8f1c9b8d2b3e85f30920ac.png" alt="badge  Intersystems Certified HL7 Specialist Developer" width="100" height="100" >
+
 ### Contribution
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quickscript-Competiton&repo=July2020entries)](https://github.com/Quickscript-Competiton/July2020entries)
