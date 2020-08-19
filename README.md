@@ -1,31 +1,11 @@
-### ![Racket](https://github.com/spdegabrielle/spdegabrielle/raw/master/racket.svg) Hi there 👋 
+## ![Racket](https://github.com/spdegabrielle/spdegabrielle/raw/master/racket.svg) Hi there 👋 
 
-<!--
-
-### Hi there 👋
-**spdegabrielle/spdegabrielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Activity
 
 [![Stephen's github stats](https://github-readme-stats.vercel.app/api?username=spdegabrielle&layout=compact&theme=prussian)](https://github.com/spdegabrielle)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spdegabrielle&layout=compact&theme=prussian)](https://github.com/spdegabrielle)
-
-
-[![GitHub](https://img.shields.io/github/followers/spdegabrielle?style=social)](https://github.com/spdegabrielle)
-[![Twitter](https://img.shields.io/twitter/follow/spdegabrielle?style=social)](https://twitter.com/spdegabrielle)
 
 ### Information
 
@@ -47,6 +27,10 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/spdegabrielle/spdegabrielle/master/0f7ad760fa8f1c9b8d2b3e85f30920ac.png" alt="badge  Intersystems Certified HL7 Specialist Developer" title="Intersystems Certified HL7 Specialist Developer" width="170" height="170" >
 </a>
 
+### Social 
+
+[![GitHub](https://img.shields.io/github/followers/spdegabrielle?style=social)](https://github.com/spdegabrielle)
+[![Twitter](https://img.shields.io/twitter/follow/spdegabrielle?style=social)](https://twitter.com/spdegabrielle)
 
 ### Contribution
 
