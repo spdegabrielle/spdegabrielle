@@ -3,9 +3,9 @@
 
 ### Activity
 
-[![Stephen's github stats](https://github-readme-stats.vercel.app/api?username=spdegabrielle&layout=compact&theme=prussian)](https://github.com/spdegabrielle)
+![Stephen's github stats](https://github-readme-stats.vercel.app/api?username=spdegabrielle&layout=compact&theme=prussian)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spdegabrielle&layout=compact&theme=prussian)](https://github.com/spdegabrielle)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spdegabrielle&layout=compact&theme=prussian)
 
 ### Information
 
@@ -17,8 +17,7 @@
   #:learning "all the time"
   #:making '(Racket community)
   #:mail "spdegabrielle@gmail.com"
-  #:Pronouns: '(He Him)
-  #:fun-fact #f)
+  #:Pronouns: '(He Him))
 ```
 
 ### Certification
