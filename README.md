@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 (information
   #:name "Stephen De Gabrielle")
   #:focus-on '(PLT integration)
-  #:languages '(racket ObjectScript)
+  #:languages '(Racket ObjectScript)
   #:learning "all the time"
   #:making '(Racket community)
   #:mail "spdegabrielle@gmail.com"
