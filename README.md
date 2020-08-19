@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Activity
+
 [![Stephen's github stats](https://github-readme-stats.vercel.app/api?username=spdegabrielle&layout=compact&theme=prussian)](https://github.com/spdegabrielle)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spdegabrielle&layout=compact&theme=prussian)](https://github.com/spdegabrielle)
@@ -25,7 +27,7 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/github/followers/spdegabrielle?style=social)](https://github.com/spdegabrielle)
 [![Twitter](https://img.shields.io/twitter/follow/spdegabrielle?style=social)](https://twitter.com/spdegabrielle)
 
-
+### Information
 
 ```racket
 (information
