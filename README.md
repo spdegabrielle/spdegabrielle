@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   #:name "Stephen De Gabrielle")
   #:focus-on '(PLT integration)
   #:langauges '(racket ObjectScript)
-  #:learning '(al the time)
+  #:learning "all the time"
   #:making '(Racket community)
   #:mail "spdegabrielle@gmail.com"
   #:Pronouns: '(He Him)
