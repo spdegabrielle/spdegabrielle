@@ -1,4 +1,4 @@
-### Hi there 👋 ![Racket](racket.svg)
+### ![Racket](https://github.com/spdegabrielle/spdegabrielle/raw/master/racket.svg) Hi there 👋 
 
 <!--
 
