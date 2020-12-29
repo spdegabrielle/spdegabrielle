@@ -5,8 +5,6 @@
 
 ![Stephen's github stats](https://github-readme-stats.vercel.app/api?username=spdegabrielle&layout=compact&theme=prussian)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spdegabrielle&layout=compact&theme=prussian)
-
 ### Information
 
 ```racket
