@@ -1,6 +1,3 @@
-## ![Racket](https://github.com/spdegabrielle/spdegabrielle/raw/master/racket.svg) Hi there 👋 
-
-
 ### Activity
 
 ![Stephen's github stats](https://github-readme-stats.vercel.app/api?username=spdegabrielle&layout=compact&theme=prussian)
@@ -10,8 +7,7 @@
 ```racket
 (information
   #:name "Stephen De Gabrielle")
-  #:focus-on '(PLT integration)
-  #:languages '(Racket ObjectScript)
+  #:languages '(![Racket](https://github.com/spdegabrielle/spdegabrielle/raw/master/racket.svg)Racket)
   #:learning "all the time"
   #:making '(Racket community)
   #:mail "spdegabrielle@gmail.com"
