@@ -7,7 +7,7 @@
 ```racket
 (information
   #:name "Stephen De Gabrielle")
-  #:languages '(![Racket](https://github.com/spdegabrielle/spdegabrielle/raw/master/racket.svg)Racket)
+  #:languages '(Racket)
   #:learning "all the time"
   #:making '(Racket community)
   #:mail "spdegabrielle@gmail.com"
