@@ -21,3 +21,4 @@
 [![GitHub](https://img.shields.io/github/followers/spdegabrielle?style=social)](https://github.com/spdegabrielle)
 [![Twitter](https://img.shields.io/twitter/follow/spdegabrielle?style=social)](https://twitter.com/spdegabrielle)
 
+<a rel="me" href="https://types.pl/@spdegabrielle">Mastodon</a>
